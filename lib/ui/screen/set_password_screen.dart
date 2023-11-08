@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:taskmanager/ui/screen/join_us_background.dart';
+import 'package:taskmanager/ui/screen/singup_screen.dart';
 
 import '../widgets/screen_background.dart';
 
